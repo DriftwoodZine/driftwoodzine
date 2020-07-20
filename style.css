@@ -12,6 +12,7 @@ p {
   }
 
 * {box-sizing:border-box}
+img {vertical-align: middle;}
 
 .slideshow-container {
   position: relative;
