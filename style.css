@@ -12,7 +12,6 @@ p {
   }
 
 * {box-sizing:border-box}
-img {vertical-align: middle;}
 
 .slideshow-container {
   position: relative;
@@ -21,6 +20,7 @@ img {vertical-align: middle;}
 
 .mySlides {
   display: none;
+  alignment: center;
 }
 
 .prev, .next {
