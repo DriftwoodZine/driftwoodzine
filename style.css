@@ -15,7 +15,7 @@ p {
 * {box-sizing:border-box}
 
 .slideshow-container {
-  max-width: 450%;
+  max-width: 45%;
   position: relative;
   margin: auto;
 }
