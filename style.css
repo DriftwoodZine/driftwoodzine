@@ -13,19 +13,22 @@ p {
 
 * {box-sizing:border-box}
 
+.slides_container div { 
+  margin: 0px auto; // center
+  width:1100px; 
+  height:500px; 
+  text-align:center; 
+} 
+
 .slideshow-container {
   position: relative;
-  margin: auto;
+  margin: 0px auto;
+  
 }
 
 .mySlides {
   display: none;
 }
-
-img {
-  vertical-align: middle;
-}
-  
 
 .prev, .next {
   cursor: pointer;
