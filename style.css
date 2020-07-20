@@ -14,8 +14,8 @@ p {
 * {box-sizing:border-box}
 
 .slideshow-container {
-  width: auto;
-  height: 100%;
+  width: 45%;
+  height: auto;
   position: relative;
   margin: auto;
 }
