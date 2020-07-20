@@ -20,8 +20,12 @@ p {
 
 .mySlides {
   display: none;
-  alignment: center;
 }
+
+img {
+  vertical-align: middle;
+}
+  
 
 .prev, .next {
   cursor: pointer;
