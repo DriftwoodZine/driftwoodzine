@@ -7,15 +7,15 @@ h1 {
 }
 
 p {
-  text-align: center;
+  text-align: right;
   font-size: 1vw;
-  padding-left: 80px;
+  margin-right: 80px;
   }
 
 * {box-sizing:border-box}
 
 .slideshow-container {
-  max-width: 25%;
+  max-width: 15%;
   position: relative;
   margin: auto;
 }
